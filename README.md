@@ -19,7 +19,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
    </div>
 
-     <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: romulodeoliveiralima@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
